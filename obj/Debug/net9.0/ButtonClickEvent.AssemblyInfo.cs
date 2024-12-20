@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ButtonClickEvent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1631e2ecac41a99c2e7b0f76e97fbd36dedc300")]
 [assembly: System.Reflection.AssemblyProductAttribute("ButtonClickEvent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ButtonClickEvent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
